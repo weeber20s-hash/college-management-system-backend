@@ -1,0 +1,12 @@
+pub mod auth;
+pub mod student; 
+pub mod dashboard;
+pub mod admin_profile;
+pub mod course;
+pub mod attendance;
+pub mod notice;
+pub mod report;
+pub mod timetable;
+pub mod assessment;
+pub mod grade;
+pub mod fee;
